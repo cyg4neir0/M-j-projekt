@@ -1,4 +1,5 @@
-from telethon import TelegramClient, events
+from
+ telethon import TelegramClient, events
 import asyncio
 
 api_id = 22308891
@@ -192,3 +193,5 @@ async def main():
     await client.run_until_disconnected()
 
 asyncio.run(main())
+
+#test
