@@ -29,7 +29,7 @@ SOURCE_CHATS = [
 
 # ► GRUPA DOCELOWA
 TARGET_CHAT = "https://t.me/+9dhlw8x4_7A3NDY0"
-
+"https://t.me/+60kiRSPog2FjNjVk"
 
 @client.on(events.NewMessage(chats=SOURCE_CHATS))
 async def handler(event):
